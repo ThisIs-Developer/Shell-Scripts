@@ -1,5 +1,5 @@
 
-# Shell-Scripts
+# Shell-Scripts [![Actions Status](https://github.com/cfgnunes/numerical-methods-python/workflows/build/badge.svg)](https://github.com/ThisIs-Developer/Shell-Scripts)
 
 A shell script is a list of commands in a computer program that is run by the Unix shell which is a command line interpreter. A shell script usually has comments that describe the steps.
 
