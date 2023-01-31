@@ -20,12 +20,12 @@ echo "Hey,ThisIs-Developer"
 For 64bit
 ```bash
   wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo dpkg -i google-chrome-stable_current_amd64.deb
+  sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
 For 32bit
 ```bash
   wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo dpkg -i google-chrome-stable_current_amd64.deb
+  sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
 Any error during the installation
 ```bash
