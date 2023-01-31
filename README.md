@@ -3,6 +3,8 @@
 
 A shell script is a list of commands in a computer program that is run by the Unix shell which is a command line interpreter. A shell script usually has comments that describe the steps.
 
+![full_colored_dark](https://user-images.githubusercontent.com/109382325/215759079-c925474c-eac2-4c6f-a980-d8ca29372aac.jpg)
+
 
 ## Author
 
